@@ -1,0 +1,6 @@
+<canvas>
+	<mapping mode="1" class="gla.vercode.canvas.CommonCanvas"/>
+	<mapping mode="2" class="gla.vercode.canvas.GBCharacterCanvas"/>
+	<mapping mode="3" class="gla.vercode.canvas.MixedCanvas" />
+	<mapping mode="4" class="gla.vercode.canvas.PlusCanvas"/>
+</canvas>

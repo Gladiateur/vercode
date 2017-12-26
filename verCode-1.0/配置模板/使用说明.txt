@@ -1,0 +1,2 @@
+将配置文件的名称为:v-config.properties(将前缀去掉)
+其中前缀的序号就是mode的值
